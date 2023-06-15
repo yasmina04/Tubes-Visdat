@@ -1,12 +1,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import altair as alt
+import plotly
 import plotly.express as px
 import plotly.graph_objects as go
-import requests
-import plotly
-import geopandas as gpd
+
 
 from streamlit_option_menu import option_menu
 
